@@ -1,0 +1,1 @@
+<h1>Unable to Cancel your tickets because Cancellation is only withing in the 24 hours</h1>
